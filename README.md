@@ -32,7 +32,7 @@
 
 <!-- Part 2: SESSION ID & DEPLOYMENTS -->
 <p align="center">
-    <strong>2. SESSION ID & DEPLOYMENTS</strong>
+    <strong>2. SESSION ID & DEPLOYMENTS</strong>XPLOADER-BOT:~CrI2VLRQ#QpVT0ADuFCA1C0W-sPOwnEiM4yaikJzDxeAXemq9cVk
     <br>
     <a href="https://cypherxbot.vercel.app/" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
