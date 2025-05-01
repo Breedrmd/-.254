@@ -1,4 +1,4 @@
-<h1 align="center"> CHRIZY </h1>
+<h1 align="center"> c.r.i.s.s🔥 </h1>
 <h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.5.5 </h1>
 
 <p align="center">
