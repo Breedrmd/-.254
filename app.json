@@ -20,7 +20,7 @@
       "value": "",
       "required": false
     },
-    "BOT_NAME": {𝐅𝐥𝐲𝐧𝐧𝐌𝐃
+    "BOT_NAME": {
       "description": "Enter your bot name here (𝐅𝐥𝐲𝐧𝐧𝐌𝐃 is cool, but feel free to name it something quirky!)",
       "value": "Flynn",
       "required": false
