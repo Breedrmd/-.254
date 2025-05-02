@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
+  "name": "𝐅𝐥𝐲𝐧𝐧𝐌𝐃",
   "version": "1.5.5",
-  "description": "The best Whatsapp bot",
+  "description": "𝐇𝐞𝐫𝐞 𝐭𝐨 𝐬𝐞𝐫𝐯𝐞 𝐲𝐨𝐮 ☺️",
   "main": "index.js",
   "engines": {
       "node": ">= 21.x",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Tylor",
+  "author": "𝐅𝐥𝐲𝐧𝐧",
   "license": "MIT",
   "dependencies": {
         "@whiskeysockets/baileys": "https://github.com/Dark-Xploit/Baileys/archive/refs/tags/v1.6.5.tar.gz",
