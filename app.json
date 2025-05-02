@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
+  "name": "𝐅𝐥𝐲𝐧𝐧𝐌𝐃",
   "version": "1.5.5",
-  "description": "CypherX, the best WhatsApp Bot",
+  "description": "𝐅𝐥𝐲𝐧𝐧𝐌𝐃, 𝐇𝐞𝐫𝐞 𝐭𝐨 𝐬𝐞𝐫𝐯𝐞 𝐲𝐨𝐮",
   "logo": "https://i.ibb.co/Q4QCHYd/copilot-image-1739572393172.jpg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/Dark-Xploit/CypherX",
@@ -20,17 +20,17 @@
       "value": "",
       "required": false
     },
-    "BOT_NAME": {
-      "description": "Enter your bot name here (CypherX is cool, but feel free to name it something quirky!)",
-      "value": "CypherX",
+    "BOT_NAME": {𝐅𝐥𝐲𝐧𝐧𝐌𝐃
+      "description": "Enter your bot name here (𝐅𝐥𝐲𝐧𝐧𝐌𝐃 is cool, but feel free to name it something quirky!)",
+      "value": "𝐅𝐥𝐲𝐧𝐧𝐌𝐃",
       "required": false
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {254782944849
       "description": "Enter your number here, starting with country code (e.g., 2547xxxxxxxx, because even bots need to know how to reach you!)",
       "value": "",
       "required": true
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": {𝐅𝐥𝐲𝐧𝐧𝐌𝐃
       "description": "Enter your name here (Who’s the boss behind the scenes? Spoiler: It's you!)",
       "value": "",
       "required": true
