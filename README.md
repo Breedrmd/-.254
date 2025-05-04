@@ -1,6 +1,8 @@
 <h1 align="center"> FLYNN_MD  </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS  IS+RAVEN-MD;MULTI+DEVICE+WHATSAPP+BOT;CODED+BY+NICK;PUBLIC+RELEASED; ...;TEAM RAVEN-𝙼𝙳."
+☺️☺️𝐅𝐋𝐘𝐍𝐍 𝐌𝐃 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐒𝐄𝐑𝐕𝐑𝐕𝐄 𝐘𝐎𝐔 🥰
+(◕‿◕)(◕‿◕)(◕‿◕)(◕‿◕)(◕‿◕)(◕‿◕)(◕‿◕)
+ ༒ꨄ𝙆𝙄𝘿.𝑐.𝑟.𝑖.𝑠.𝑠 ꨄ 𝙏𝙃ع 𒉽  𒉽  𒉽 𝙇𝞝𝙂𝞝𝞜𝘿 𒉽  𒉽  𒉽  🔥🔥🔥    
 </p>
 
 </a>
