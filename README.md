@@ -1,7 +1,7 @@
 <h1 align="center"> FLYNN_MD  </h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/CypherX">
+  <a href="https://github.com/Dark-Xploit/FLYNN_MD">
     <img alt="CypherX docs" height="400" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
   </a>
 </p>
