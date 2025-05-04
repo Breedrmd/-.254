@@ -5,13 +5,7 @@
 
  ༒ꨄ𝙆𝙄𝘿.𝑐.𝑟.𝑖.𝑠.𝑠 ꨄ 𝙏𝙃ع 𒉽  𒉽  𒉽 𝙇𝞝𝙂𝞝𝞜𝘿 𒉽  𒉽  𒉽  🔥🔥🔥
 
-    
-</p>
 
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/FLYNN_MD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 <p align="center">
