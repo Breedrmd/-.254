@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
-    <img alt="CypherX docs" height="350" src="https://files.catbox.moe/awf3ei.jpg">
+    <img alt="CypherX docs" height="100" src="https://files.catbox.moe/awf3ei.jpg">
   </a>
 </p>
 
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="0782944849"></a>
+
 <p/>
 
 <p align="center">
