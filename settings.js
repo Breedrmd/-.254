@@ -34,7 +34,7 @@ global.ownernumber = process.env.OWNER_NUMBER || '254782944849'
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || '𝐅𝐥𝐲𝐧𝐧 𝑐ℎ𝑟𝑖𝑠𝑠' 
+global.ownername = process.env.OWNER_NAME || '☆𝐅𝐥𝐲𝐧𝐧 𝐜𝐫𝐢𝐬𝐬☆'
 // Set your name, currently it's the mastermind's. The one and only... 𝐹𝑙𝑦𝑛𝑛. (Don't ask how I got here, it's a mystery.)
 
 //------------[ STICKER PACKNAME ]-----------------//
@@ -44,7 +44,7 @@ global.packname = process.env.STICKER_PACK_NAME || "𝐅𝐥𝐲𝐧𝐧@0782944
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "𝐅𝐥𝐲𝐧𝐧" 
+global.author = process.env.STICKER_AUTHOR_NAME || "𝐅𝐥𝐲𝐧𝐧♥︎" 
 // Who's the artist behind those epic stickers? You, of course! Unless you're just using the default name "X" – mystery vibes!
 
 //----------------------[ TIMEZONE ]--------------------//
