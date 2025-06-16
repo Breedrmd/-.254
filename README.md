@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+<h1 align="center"> 𝐅𝐥𝐲𝐧𝐧-𝐌𝐃 </h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
@@ -9,7 +9,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://files.catbox.moe/awf3ei.jpg"></a>
 <p/>
 
 <p align="center">
